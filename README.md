@@ -1,2 +1,2 @@
 Run the app with:
-$ phyton3 app.py
+```phyton3 app.py```
